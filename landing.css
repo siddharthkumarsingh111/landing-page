@@ -1,0 +1,120 @@
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+
+#Home {
+  background-color:#B9B4C7;
+}
+#About {
+  background-color:#B9B4C7;
+}
+#Service {
+  background-color: #B9B4C7;
+}
+#Contact {
+  background-color: #B9B4C7;
+}
+header {
+  display: flex;
+  background-color: #5C5470;
+  justify-content: flex-end;
+  align-items: center;
+  
+}
+header a {
+  text-decoration: none;
+  color:white;
+
+  padding: 25px 25px 25px 25px;
+}
+#Home img {
+  height: 91vh;
+  width: 100vw;
+}
+section {
+  height: 100vh;
+}
+#content_my{
+  font-size: 20px;
+  font-weight: lighter;
+  line-height: 25px;
+  margin-top: 120px;
+  margin-left: 350px;
+}
+h2{
+  padding-top:  25px;
+}
+h1{
+  text-align: center;
+  margin-top: 30px;
+}
+#aman {
+  width: 250px;
+  height: 250px;
+  /* border-radius: 50%; */
+
+  float: left;
+  margin: 200px 25px 25px 25px;
+}
+#services img {
+  width: 30%;
+  height: 400px;
+  margin: 40px 20px 0px 20px;
+}
+#form_body{
+  text-align: center;
+}
+#contact_heading{
+  text-align: center;
+  margin: 20px 0px;
+}
+input, textarea{
+  padding: 8px;
+  width: 35%;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  
+}
+#footers{
+  
+  text-align: center;
+  background-color: rgba(25, 24, 24, 0.836);
+  height: 38%;
+  margin-top: 110px;
+  padding: 30px 0;
+}
+.colicon{
+  font-size: 30px;
+  padding-left: 15px;
+
+}
+#footer_end{
+  padding-top: 16px;
+  color: rgba(255, 255, 255, 0.873);
+}
+#inst_col{
+  color: #DD2A7B;
+}
+#fac_col{
+  color: #1877F2;
+}
+#Git_col{
+  color:black;
+}
+#link_col{
+  color: rgba(45, 45, 231, 0.804);
+}
+input[type="submit"]{
+  background-color:#5C8374;
+  cursor: pointer;
+  border: none;
+}
+
+
+
+ 
+
+
